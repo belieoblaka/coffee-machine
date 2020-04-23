@@ -101,4 +101,8 @@ function trashConsole() {
 */
 
 
-
+//changeBox.append(coin); //добавляет в конец внутри элемента
+  //changeBox.after(coin); //после элемента
+  //changeBox.befor(coin); //перед элементом
+  //changeBox.prepend(coin); //добавляеь в начало внутри элемента
+  //changeBox.replaceWith(coin); //заменяет элеимент
